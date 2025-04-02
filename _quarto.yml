@@ -4,15 +4,17 @@ project:
 
 
 website:
-  title: "KAI_website"
+  #title: "KAI_website"
   favicon: media/beetle.png
   navbar:
     logo: media/beetle.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - posts.qmd
+      - href: about.qmd
+        text: About me
+      - href: posts.qmd
+        text: Stats Blog
   open-graph: true 
   page-footer:
     background: light # or `dark`
