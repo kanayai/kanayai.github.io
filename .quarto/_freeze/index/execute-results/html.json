@@ -1,8 +1,8 @@
 {
-  "hash": "6b97c7eecfc39b4e0d86a80844f978ee",
+  "hash": "6bc2bbcd5c96dd349ec9df4e648b7479",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"KAI_website\"\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Karim AI\"\nimage: media/layout.png\ntoc: false\nabout: \n  template: trestles\n  image-shape: round\n  image-width: 17em\n  links:\n    - text: GitHub\n      href: https://github.com/kanayai\n    - text: Email\n      href: mailto:kai21@bath.ac.uk\n---\n\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

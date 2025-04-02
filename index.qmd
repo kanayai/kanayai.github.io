@@ -1,5 +1,16 @@
 ---
-title: "KAI_website"
+title: "Karim AI"
+image: media/layout.png
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/kanayai
+    - text: Email
+      href: mailto:kai21@bath.ac.uk
 ---
 
 This is a Quarto website.
