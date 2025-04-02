@@ -25,5 +25,11 @@
   },
   "posts.qmd": {
     "posts.html": "16a0da72"
+  },
+  "teaching.qmd": {
+    "teaching.html": "0a190d44"
+  },
+  "research.qmd": {
+    "research.html": "982c2d0c"
   }
 }
