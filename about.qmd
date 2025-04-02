@@ -1,8 +1,8 @@
 ---
 title: "Karim AI"
 about:
-  template: jolla
-  image: profile.jpg
+  template: trestles
+  image: media/layout.png
   links:
     - icon: twitter
       text: twitter
