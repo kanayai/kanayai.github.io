@@ -4,5 +4,26 @@
   },
   "about.qmd": {
     "about.html": "2f684ab9"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "03ca45ad"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "7e18d29b"
+  },
+  "posts/post-with-code copy 2/index.qmd": {
+    "index.html": "a86fbfa7"
+  },
+  "posts/welcome copy 2/index.qmd": {
+    "index.html": "8c43c8c0"
+  },
+  "posts/post-with-code copy/index.qmd": {
+    "index.html": "ebeae5e3"
+  },
+  "posts/welcome copy/index.qmd": {
+    "index.html": "3b1bffa9"
+  },
+  "posts.qmd": {
+    "posts.html": "16a0da72"
   }
 }

@@ -1,0 +1,10 @@
+---
+title: "Karim AI blog"
+listing: 
+  contents: posts 
+  type: grid 
+  grid-columns: 2
+  sort: "date desc" 
+  categories: true 
+---
+

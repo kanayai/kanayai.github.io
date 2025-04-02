@@ -10,12 +10,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - posts.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: cyborg
     css: styles.css
     toc: true
     page-layout: full
