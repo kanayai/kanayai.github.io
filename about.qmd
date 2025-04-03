@@ -1,7 +1,7 @@
 ---
 title: "Karim AI"
 about:
-  template: trestles
+  template: marquee
   image: media/me.jpeg
   links:
     - icon: twitter
