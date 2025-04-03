@@ -3,9 +3,8 @@ title: "Karim AI"
 image: media/mix1.png
 toc: false
 about: 
-  template: trestles
+  template: marquee
   image-shape: rectangle
-  image-width: 17em
   links:
     - text: GitHub
       href: https://github.com/kanayai
