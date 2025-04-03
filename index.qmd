@@ -1,6 +1,6 @@
 ---
 title: "Karim AI"
-image: media/mix1.png
+image: media/mix2.png
 toc: false
 about: 
   template: marquee
